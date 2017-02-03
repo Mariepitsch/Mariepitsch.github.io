@@ -13,6 +13,6 @@
 	<body>
 
 	<h1>Index</h1>
-		<a href="Test.html">
+		<a href="Test.html">TEST</a> 
 	</body>
 </html>
